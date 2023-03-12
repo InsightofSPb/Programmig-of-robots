@@ -1,0 +1,7 @@
+hector_quadrotor/hector_gazebo_thermal_camera
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/cmake.lock /home/alexander/drone/devel/./cmake.lock
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig-version.cmake /home/alexander/drone/devel/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig-version.cmake
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig.cmake /home/alexander/drone/devel/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig.cmake
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/lib/libgazebo_ros_thermal_camera.so /home/alexander/drone/devel/lib/libgazebo_ros_thermal_camera.so
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/lib/libgazebo_ros_thermal_depth_camera.so /home/alexander/drone/devel/lib/libgazebo_ros_thermal_depth_camera.so
+/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera/lib/pkgconfig/hector_gazebo_thermal_camera.pc /home/alexander/drone/devel/lib/pkgconfig/hector_gazebo_thermal_camera.pc

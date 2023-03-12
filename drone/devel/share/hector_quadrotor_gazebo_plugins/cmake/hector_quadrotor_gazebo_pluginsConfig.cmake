@@ -1,0 +1,1 @@
+/home/alexander/drone/devel/.private/hector_quadrotor_gazebo_plugins/share/hector_quadrotor_gazebo_plugins/cmake/hector_quadrotor_gazebo_pluginsConfig.cmake

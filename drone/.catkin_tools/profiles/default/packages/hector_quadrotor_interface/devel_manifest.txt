@@ -1,0 +1,6 @@
+hector_quadrotor/hector_quadrotor_interface
+/home/alexander/drone/devel/.private/hector_quadrotor_interface/cmake.lock /home/alexander/drone/devel/./cmake.lock
+/home/alexander/drone/devel/.private/hector_quadrotor_interface/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig-version.cmake /home/alexander/drone/devel/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig-version.cmake
+/home/alexander/drone/devel/.private/hector_quadrotor_interface/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig.cmake /home/alexander/drone/devel/share/hector_quadrotor_interface/cmake/hector_quadrotor_interfaceConfig.cmake
+/home/alexander/drone/devel/.private/hector_quadrotor_interface/lib/libhector_quadrotor_interface.so /home/alexander/drone/devel/lib/libhector_quadrotor_interface.so
+/home/alexander/drone/devel/.private/hector_quadrotor_interface/lib/pkgconfig/hector_quadrotor_interface.pc /home/alexander/drone/devel/lib/pkgconfig/hector_quadrotor_interface.pc

@@ -1,0 +1,6 @@
+devel_space: /home/alexander/drone/devel
+install: false
+install_space: /home/alexander/drone/install
+profile: default
+source_space: /home/alexander/drone/src
+workspace: /home/alexander/drone

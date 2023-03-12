@@ -1,0 +1,8 @@
+prefix=/home/alexander/drone/devel/.private/hector_gazebo_plugins
+
+Name: hector_gazebo_plugins
+Description: Description of hector_gazebo_plugins
+Version: 0.5.2
+Cflags: -I/home/alexander/drone/devel/.private/hector_gazebo_plugins/include -I/home/alexander/drone/src/hector_quadrotor/hector_gazebo_plugins/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs tf message_runtime

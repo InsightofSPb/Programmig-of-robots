@@ -1,0 +1,5 @@
+hector_quadrotor/hector_xacro_tools
+/home/alexander/drone/devel/.private/hector_xacro_tools/cmake.lock /home/alexander/drone/devel/./cmake.lock
+/home/alexander/drone/devel/.private/hector_xacro_tools/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig-version.cmake /home/alexander/drone/devel/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig-version.cmake
+/home/alexander/drone/devel/.private/hector_xacro_tools/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig.cmake /home/alexander/drone/devel/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig.cmake
+/home/alexander/drone/devel/.private/hector_xacro_tools/lib/pkgconfig/hector_xacro_tools.pc /home/alexander/drone/devel/lib/pkgconfig/hector_xacro_tools.pc

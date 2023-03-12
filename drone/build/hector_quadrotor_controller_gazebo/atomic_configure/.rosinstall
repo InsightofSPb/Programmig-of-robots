@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alexander/drone/devel/.private/hector_quadrotor_controller_gazebo/setup.sh

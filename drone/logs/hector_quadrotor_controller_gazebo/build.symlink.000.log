@@ -1,0 +1,4 @@
+Symlinking /home/alexander/drone/devel/share/hector_quadrotor_controller_gazebo/cmake/hector_quadrotor_controller_gazeboConfig-version.cmake
+Symlinking /home/alexander/drone/devel/share/hector_quadrotor_controller_gazebo/cmake/hector_quadrotor_controller_gazeboConfig.cmake
+Symlinking /home/alexander/drone/devel/lib/libhector_quadrotor_controller_gazebo.so
+Symlinking /home/alexander/drone/devel/lib/pkgconfig/hector_quadrotor_controller_gazebo.pc

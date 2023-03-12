@@ -1,0 +1,8 @@
+prefix=/home/alexander/drone/devel/.private/hector_gazebo_thermal_camera
+
+Name: hector_gazebo_thermal_camera
+Description: Description of hector_gazebo_thermal_camera
+Version: 0.5.2
+Cflags: -I/home/alexander/drone/src/hector_quadrotor/hector_gazebo_thermal_camera/include
+Libs: -L${prefix}/lib 
+Requires: gazebo_plugins

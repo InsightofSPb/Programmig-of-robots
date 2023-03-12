@@ -1,0 +1,2 @@
+hector_quadrotor/hector_models
+/home/alexander/drone/devel/.private/hector_models/cmake.lock /home/alexander/drone/devel/./cmake.lock
